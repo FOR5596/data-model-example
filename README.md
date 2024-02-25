@@ -4,6 +4,6 @@
 </a>
 
 
-In this example, a very simple data model for capturing data of calibration experiments of an analyte is defined. The defined data model [`calibration-data-model.md`](calibration-data-model.md) is used to create software in order to combine known experimental conditions of an fictive S-Adenosyl methionine calibration experiment (e.g. from a lab book) with measured data [`data.csv`](data.csv). The creation of the dataset and visualization is carried out in [`analyse-calibration.ipynb`](analyse-calibration.ipynb). The final data set is stored in [`sam_calibration.json`](sam_calibration.json).
+In this example, a very simple data model for capturing data from calibration experiments of an analyte is defined. The defined data model [`calibration-data-model.md`](calibration-data-model.md) is used to create software in order to combine known experimental conditions of a fictive S-Adenosyl methionine calibration experiment (e.g. from a lab book) with measured data [`data.csv`](data.csv). The creation of the dataset and visualization is carried out in [`analyse-calibration.ipynb`](analyse-calibration.ipynb). The final data set is stored in [`sam_calibration.json`](sam_calibration.json).
 
-The Jupyter Notebook can be interactively executed by clicking in the `COLAB` badge.
+The Jupyter Notebook can be interactively executed by clicking on the `COLAB`` badge.
