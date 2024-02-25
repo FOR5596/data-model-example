@@ -1,0 +1,3 @@
+sdRDM==0.2.2
+ipykernel
+matplotlib

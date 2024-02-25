@@ -1,0 +1,241 @@
+{
+  "id": "ff3109c0-51cf-4fd8-a7a4-be32729a3f6c",
+  "analyte_name": "S-Adenosyl methionine",
+  "inchi": "InChI=1S/C15H22N6O5S/c1-27(3-2-7(16)15(24)25)4-8-10(22)11(23)14(26-8)21-6-20-9-12(17)18-5-19-13(9)21/h5-8,10-11,14,22-23H,2-4,16H2,1H3,(H2-,17,18,19,24,25)/p+1/t7?,8-,10-,11-,14-,27?/m1/s1",
+  "date_measured": "2024-02-25T19:25:40",
+  "temperature": 37.0,
+  "ph": 7.4,
+  "samples": [
+    {
+      "id": "c4354991-5fff-4003-9e4d-7239c031b0bf",
+      "init_conc": 0.0,
+      "conc_unit": {
+        "id": "8c944409-e74b-4b26-a46b-b5f6d7532558",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 0.0034991056227232
+    },
+    {
+      "id": "2d7cd90d-de3e-4c58-bb65-68a74ae0f8ec",
+      "init_conc": 20.0,
+      "conc_unit": {
+        "id": "60f83eba-647d-4d13-9657-9b773b728cd7",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 0.3434991056227233
+    },
+    {
+      "id": "f25015fc-500f-4470-99b3-fab96a1bc99a",
+      "init_conc": 40.0,
+      "conc_unit": {
+        "id": "0c6d5377-717f-43f2-836a-23d5e2ef25f7",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 0.6834991056227233
+    },
+    {
+      "id": "c5db410f-4582-4329-9493-e80b3fd8d4e9",
+      "init_conc": 60.0,
+      "conc_unit": {
+        "id": "9d777767-c2c5-4313-9296-d6e03eee4c93",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 1.0234991056227234
+    },
+    {
+      "id": "a60bdc2b-cee1-4c13-a80e-a81adf912688",
+      "init_conc": 80.0,
+      "conc_unit": {
+        "id": "2f4485bb-0336-4196-9620-7379d263d0a3",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 1.3634991056227237
+    },
+    {
+      "id": "6640095b-e8c4-4097-ac7e-23c8b520f00c",
+      "init_conc": 100.0,
+      "conc_unit": {
+        "id": "c8332bab-420a-4d63-93ad-013bc1a0d904",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 1.7034991056227236
+    },
+    {
+      "id": "da88d5d6-a178-4e40-b9f9-25d1c224035a",
+      "init_conc": 120.0,
+      "conc_unit": {
+        "id": "150f5fd5-8c97-4f19-9223-4d26040d656c",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 2.043499105622723
+    },
+    {
+      "id": "d797a548-373c-4b6b-b2b1-b3972053a181",
+      "init_conc": 140.0,
+      "conc_unit": {
+        "id": "dc300d79-d474-43bc-96b1-8e521f2b3fde",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 2.3834991056227235
+    },
+    {
+      "id": "edc0b39f-e0a4-42c9-92ba-5a4852e8424c",
+      "init_conc": 160.0,
+      "conc_unit": {
+        "id": "564bed37-7f71-4b4e-bc7b-b0dcf634afdf",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 2.7234991056227233
+    },
+    {
+      "id": "96c6d5be-f61c-4b8c-8418-f6b6b197a06f",
+      "init_conc": 180.0,
+      "conc_unit": {
+        "id": "51995b48-d6d5-4a28-beab-8fc841b30f17",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 3.063499105622723
+    },
+    {
+      "id": "b6090c13-9f02-428c-b739-4b3fd357895c",
+      "init_conc": 200.0,
+      "conc_unit": {
+        "id": "979851c1-fc54-4dcf-825a-73cd4c7d42fe",
+        "name": "umol / l",
+        "bases": [
+          {
+            "scale": 1e-06,
+            "kind": "mol",
+            "exponent": 1.0
+          },
+          {
+            "scale": 1.0,
+            "kind": "l",
+            "exponent": -1.0
+          }
+        ]
+      },
+      "measured_signal": 3.4034991056227235
+    }
+  ]
+}
