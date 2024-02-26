@@ -1,5 +1,6 @@
-sdRDM==0.2.2
+sdRDM @ git+https://github.com/JR-1991/software-driven-rdm@main
 ipykernel
 matplotlib
 instructor
 openai
+scipy

@@ -18,6 +18,9 @@ A `Calibration` contains information on the measurement conditions and the actua
 - __temperature__
     - type: float
     - description: Temperature at which the calibration experiment was performed
+- __temperature_unit__
+    - type: Unit
+    - description: Unit of temperature
 - __ph__
     - type: float
     - description: pH at which the calibration experiment was performed
@@ -25,6 +28,9 @@ A `Calibration` contains information on the measurement conditions and the actua
     - type: Sample
     - multiple: True
     - description: List of samples that were used for the calibration experiment
+- slope
+    - type: float
+    - description: Slope of the calibration curve, representing the proportionality coefficient between the concentration and the signal
 
 ### Sample
 A `Sample` contains describes individual measurements of a `Calibration`. 
@@ -39,5 +45,5 @@ A `Sample` contains describes individual measurements of a `Calibration`.
     - type: float
     - description: Signal that was measured for the sample
 - signal_unit
-    - type: string
+    - type: Unit
     - description: Unit of the signal
