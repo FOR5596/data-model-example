@@ -28,6 +28,9 @@ A `Calibration` contains information on the measurement conditions and the actua
     - type: Sample
     - multiple: True
     - description: List of samples that were used for the calibration experiment
+- __wavelength__
+    - type: float
+    - description: Wavelength at which the signal was measured in nm
 - slope
     - type: float
     - description: Slope of the calibration curve, representing the proportionality coefficient between the concentration and the signal
@@ -37,7 +40,7 @@ A `Sample` contains describes individual measurements of a `Calibration`.
 
 - __init_conc__
     - type: float
-    - description: Initial concentration of the sample
+    - description: Initial concentration of the analyte sample
 - __conc_unit__
     - type: Unit
     - description: Unit of concentration
