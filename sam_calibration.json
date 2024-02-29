@@ -1,11 +1,11 @@
 {
-  "id": "cbb85227-69a2-4844-943b-149b5999edc1",
+  "id": "80a9f7de-0b3e-44a1-9205-f6c0d57a797c",
   "analyte_name": "S-Adenosyl methionine",
   "inchi": "InChI=1S/C15H22N6O5S/c1-27(3-2-7(16)15(24)25)4-8-10(22)11(23)14(26-8)21-6-20-9-12(17)18-5-19-13(9)21/h5-8,10-11,14,22-23H,2-4,16H2,1H3,(H2-,17,18,19,24,25)/p+1/t7?,8-,10-,11-,14-,27?/m1/s1",
   "date_measured": "2024-02-25T19:25:40",
   "temperature": 37.0,
   "temperature_unit": {
-    "id": "021d79f1-4c3e-406c-b9bc-2d9a2e9729c6",
+    "id": "4740d80e-5f9f-4b7f-a011-a333138555da",
     "name": "C",
     "bases": [
       {
@@ -18,10 +18,10 @@
   "ph": 7.4,
   "samples": [
     {
-      "id": "80e5b2e8-9713-4196-ae50-cf5444de92d9",
+      "id": "515addb1-9374-4ca0-86ef-172d1063dbc8",
       "init_conc": 0.0,
       "conc_unit": {
-        "id": "9eb19e88-b41f-45a4-8e6d-c015752c7fc3",
+        "id": "2125cd5a-a9ed-46f5-8c16-c0d705315e77",
         "name": "umol / l",
         "bases": [
           {
@@ -39,10 +39,10 @@
       "measured_signal": 0.0034991056227232
     },
     {
-      "id": "506334c5-a947-491f-a9d9-978c36b0f502",
+      "id": "5f7b0227-f6e8-4705-ad87-d41af6e5580e",
       "init_conc": 20.0,
       "conc_unit": {
-        "id": "bd404963-ef8f-4888-b70f-fb7db8644c81",
+        "id": "703ec17e-dfb9-47e6-8d67-9ceac56a6a36",
         "name": "umol / l",
         "bases": [
           {
@@ -60,10 +60,10 @@
       "measured_signal": 0.3434991056227233
     },
     {
-      "id": "d169aab5-7ec5-46e1-8882-c82173fe9043",
+      "id": "cee8c216-3760-4c9e-bb71-c88edb00bada",
       "init_conc": 40.0,
       "conc_unit": {
-        "id": "06df97fc-99aa-4043-97c1-ddeb2e69e6f1",
+        "id": "7b003eea-8842-4436-aafc-edbe44bfb339",
         "name": "umol / l",
         "bases": [
           {
@@ -81,10 +81,10 @@
       "measured_signal": 0.6834991056227233
     },
     {
-      "id": "7d65f5ef-601e-4501-991b-ba6ae35f1add",
+      "id": "c469e53a-1df4-4b2f-8af5-1ed33c6c59db",
       "init_conc": 60.0,
       "conc_unit": {
-        "id": "90e1e141-4930-43eb-bfc5-5141057552e4",
+        "id": "8977e11b-3f24-4282-bd44-37b4807cf9ba",
         "name": "umol / l",
         "bases": [
           {
@@ -102,10 +102,10 @@
       "measured_signal": 1.0234991056227234
     },
     {
-      "id": "dfd7f049-0a9e-4d83-9e9f-6524e33d9ff4",
+      "id": "389be401-c6e7-402f-8bb5-29fb023faae7",
       "init_conc": 80.0,
       "conc_unit": {
-        "id": "f7a5b007-3589-4f64-98dc-e91a24b673f6",
+        "id": "24ed1e74-cca5-48e5-8b91-dc2a8318f0dd",
         "name": "umol / l",
         "bases": [
           {
@@ -123,10 +123,10 @@
       "measured_signal": 1.3634991056227237
     },
     {
-      "id": "a98e2886-0f25-44bb-863c-0de052b56353",
+      "id": "bd4e17a1-61d2-4f47-b39a-cb0a94145e27",
       "init_conc": 100.0,
       "conc_unit": {
-        "id": "22f839ab-df49-475b-945b-ded61fd22de6",
+        "id": "c9f8b81e-ced4-42db-99ac-6ec152f06132",
         "name": "umol / l",
         "bases": [
           {
@@ -144,10 +144,10 @@
       "measured_signal": 1.7034991056227236
     },
     {
-      "id": "55266f01-f769-46aa-b1b3-4ad6f2dc79a3",
+      "id": "ce51636a-435e-4a6b-a8a5-6b6480d5aef4",
       "init_conc": 120.0,
       "conc_unit": {
-        "id": "85b77805-e57e-4a3f-954e-481139ffc980",
+        "id": "99042255-1c6a-4545-b45a-71cfbd03f1d3",
         "name": "umol / l",
         "bases": [
           {
@@ -165,10 +165,10 @@
       "measured_signal": 2.043499105622723
     },
     {
-      "id": "31a85b04-31aa-4bb9-8660-9fbb87795cf0",
+      "id": "920a3bf0-8430-429d-b617-a51badd29f16",
       "init_conc": 140.0,
       "conc_unit": {
-        "id": "ccbcd6b4-1d85-4b38-8cce-b7737babf28c",
+        "id": "d8145707-be7d-460f-8cbd-114ec99aa9b1",
         "name": "umol / l",
         "bases": [
           {
@@ -186,10 +186,10 @@
       "measured_signal": 2.3834991056227235
     },
     {
-      "id": "0374ef7e-d097-48e8-8eab-6a0d08a93d47",
+      "id": "5edb0d43-c220-4803-81ab-b37bcb0b818d",
       "init_conc": 160.0,
       "conc_unit": {
-        "id": "bcc01daf-d415-4d7b-9290-166a2c637710",
+        "id": "a63bab8d-b870-4988-9f7c-b2676c75a7aa",
         "name": "umol / l",
         "bases": [
           {
@@ -207,10 +207,10 @@
       "measured_signal": 2.7234991056227233
     },
     {
-      "id": "98128b3d-3be5-4072-b6c7-5c51c127de98",
+      "id": "b430ac1f-67c4-4df0-b5d8-e2914268f907",
       "init_conc": 180.0,
       "conc_unit": {
-        "id": "3fe73825-e7f1-4158-a207-e9cd7ccf5a4d",
+        "id": "a80a6775-4825-419d-ba9d-67089a9b9e34",
         "name": "umol / l",
         "bases": [
           {
@@ -228,10 +228,10 @@
       "measured_signal": 3.063499105622723
     },
     {
-      "id": "1232b0bb-4980-4bae-93ce-8d065aa7a7f2",
+      "id": "e84a2372-d651-4edb-beb9-1f36cb35d1a8",
       "init_conc": 200.0,
       "conc_unit": {
-        "id": "fea9edfb-f328-4c66-b107-335408829695",
+        "id": "c5180ae0-e754-41e8-8407-0e235e388243",
         "name": "umol / l",
         "bases": [
           {
