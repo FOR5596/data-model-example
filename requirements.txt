@@ -1,7 +1,3 @@
 sdRDM @ git+https://github.com/JR-1991/software-driven-rdm@main
 ipykernel
 matplotlib
-instructor
-openai
-pandas==2.1
-numpy==1.22
