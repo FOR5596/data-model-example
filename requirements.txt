@@ -4,4 +4,4 @@ matplotlib
 instructor
 openai
 scipy
-pandas==1.5.3
+pandas>=2
