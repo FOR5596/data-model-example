@@ -3,3 +3,4 @@ ipykernel
 matplotlib
 instructor
 openai
+numpy==1.26.4
