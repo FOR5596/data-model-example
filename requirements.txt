@@ -1,3 +1,4 @@
 sdRDM @ git+https://github.com/JR-1991/software-driven-rdm@main
 ipykernel
 matplotlib
+pandas==1.5.3
