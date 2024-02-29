@@ -3,4 +3,3 @@ ipykernel
 matplotlib
 instructor
 openai
-pandas==1.5.3
